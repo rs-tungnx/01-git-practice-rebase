@@ -1,3 +1,8 @@
+# v1.0.1 - 20221122
+
+- [rs-06] Implement remove EST content on sample file
+  [PR#8] (https://github.com/rs-tungnx/01-git-practice-rebase/pull/8)
+
 # v1.0.0 - 20221122
 
 - [rs-04] Implement remove EST content on sample file
